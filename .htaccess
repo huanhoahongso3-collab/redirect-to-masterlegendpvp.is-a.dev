@@ -1,2 +1,4 @@
 # Ensure index.html is the default page when accessing the root
 DirectoryIndex index.html
+# 404.html
+ErrorDocument 404 /404.html
