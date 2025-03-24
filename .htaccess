@@ -1,0 +1,2 @@
+# Ensure index.html is the default page when accessing the root
+DirectoryIndex index.html
