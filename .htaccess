@@ -1,4 +1,4 @@
 # Ensure index.html is the default page when accessing the root
 DirectoryIndex index.html
-# Use the fallback 404.html so that all failed URL will go here then redirected to masterlegendpvp.is-a.dev
+# Use the fallback 404.html so that all URL will go here then redirected to masterlegendpvp.is-a.dev
 ErrorDocument 404 /404.html
